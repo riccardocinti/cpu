@@ -1,0 +1,1 @@
+Cpu example code from the book Rust in Action
